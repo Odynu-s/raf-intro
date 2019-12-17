@@ -1,3 +1,3 @@
 # raf_intro
-My solutions to the RAF Introduction to Programming class
-Done in C99
+My solutions to the RAF Introduction to Programming class,
+done in C99
